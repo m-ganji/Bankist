@@ -1,3 +1,3 @@
 # bankist
 
-Click on the [link](https://bankist-mainpage.netlify.app/)
+To see this project [click here...](https://bankist-mainpage.netlify.app/)
