@@ -670,3 +670,11 @@ h4 {
   font-size: 1.5rem;
   font-weight: 400;
 }
+
+@media (max-width: 45em) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+@media (max-width: 35em) {
+      grid-template-columns: repeat(2, 1fr);
+}
