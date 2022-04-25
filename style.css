@@ -1,3 +1,17 @@
+:root {
+	 --color-primary: #5ec576;
+	 --color-secondary: #ffcb03;
+	 --color-tertiary: #ff585f;
+	 --color-primary-darker: #4bbb7d;
+	 --color-secondary-darker: #fb0;
+	 --color-tertiary-darker: #fd424b;
+	 --color-primary-opacity: #5ec576 3a;
+	 --color-secondary-opacity: #ffcd03 31;
+	 --color-tertiary-opacity: #ff5860 2d;
+	 --gradient-primary: linear-gradient(to top left, #39b385, #9be15d);
+	 --gradient-secondary: linear-gradient(to top left, #ffb003, #ffcb03);
+}
+
 .container {
 	 max-width: 114rem;
 	 width: 100%;
